@@ -5,7 +5,7 @@ This repository contains a introduction into Large Language Model (LLM)-based Mu
 
 ## Repository Structure
   
-  - **Data Ethics Notebooks**: Jupyter notebooks exploring ethical considerations in data usage within MAS.
+  - **Data Ethics Notebooks**: Jupyter notebooks of an intersting MAS project with its complete tutorial.
   - **Literature Review**: A comprehensive review of existing research on LLM-based MAS.
   - **MAS Tools Comparison**: Analyses comparing various tools used in MAS development.
 
